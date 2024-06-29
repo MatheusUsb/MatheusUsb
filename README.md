@@ -20,4 +20,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MatheusUsb&color=blue)
 
 ### :briefcase: My LinkedIn
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210)
