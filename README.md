@@ -20,4 +20,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MatheusUsb&color=blue)
 
 ### :briefcase: My LinkedIn
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210)
+<a href="https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="LinkedIn">
+</a>
