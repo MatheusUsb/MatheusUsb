@@ -1,4 +1,4 @@
-## Hi there, 👋 welcome to my GitHub profile! i'm Matheus.
+## Hi there, 👋 welcome to my GitHub profile! I'm Matheus.
 <table>
   <tr>
     <td>
