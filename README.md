@@ -1,7 +1,4 @@
 ## Hi there, 👋 i'm Matheus.
-
-## 📊 My GitHub Stats & 👨‍💻 Most Used Languages
-
 <table>
   <tr>
     <td>
