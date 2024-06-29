@@ -18,3 +18,5 @@
 
 ### 🕵️‍♂️ Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=MatheusUsb&color=blue)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([Your-LinkedIn-Profile-URL](https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210/))
