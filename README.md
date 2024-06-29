@@ -1,4 +1,4 @@
-## Hi there, 👋 i'm Matheus.
+## Hi there, 👋 welcome to my GitHub profile! i'm Matheus.
 <table>
   <tr>
     <td>
@@ -19,4 +19,5 @@
 ### 🕵️‍♂️ Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=MatheusUsb&color=blue)
 
+### :briefcase: LinkedIn My LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210)
