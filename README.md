@@ -20,6 +20,15 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=MatheusUsb&color=blue)
 
 ### :briefcase: My LinkedIn
-<a href="https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="LinkedIn">
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/matheus-gouv%C3%AAa-691557210">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=MatheusUsb&color=blue" alt="Visitor Count">
+    </td>
+  </tr>
+</table>
